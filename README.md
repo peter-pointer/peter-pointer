@@ -10,7 +10,7 @@ Recently, I completed an intensive Full Stack Web Development Bootcamp at 4Geeks
 
 **Languages & Frameworks:**
 
-- 💻 HTML5 / CSS3 / Bootstrap  
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) HTML5 / CSS3 / Bootstrap  
 - ⚙️ JavaScript (ES6+) / React  
 - 🐍 Python / Flask  
 - 🛢 SQL / SQLAlchemy  
